@@ -23,4 +23,4 @@ Une liste courte, classée en trois groupes :
 Pour chaque ligne, une raison en quelques mots. Puis demander, groupe par groupe : « Je fais ces changements ? » et ne faire que ceux que l'utilisateur accepte.
 
 ## Astuce
-Dans l'espace Code, la commande `/doctor` fait une partie de ce contrôle automatiquement : la proposer en complément.
+Si la commande `/doctor` est disponible (elle l'est dans Claude Code en terminal), elle fait une partie de ce contrôle automatiquement : la proposer en complément.

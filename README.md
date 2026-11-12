@@ -14,11 +14,15 @@ Un **skill**, c'est une recette que Claude ressort chaque fois que la situation 
 Ouvrez **Claude Code** (l'onglet Code de l'application Claude) et envoyez :
 
 ```text
-Installe les skills de ce kit : https://github.com/n9ka-ai/kit-skills-claude
+Installe les skills de ce kit pour tous mes projets : https://github.com/n9ka-ai/kit-skills-claude
 Avant de les installer, lis-les et explique-moi en une ligne ce que fait chacun.
 ```
 
 La seconde phrase n'est pas une politesse : **on lit toujours un skill avant de l'installer**, celui-ci compris.
+
+Une fois l'installation terminée, **ouvrez une nouvelle session** : les skills n'apparaissent qu'au démarrage d'une session. Tapez `/` pour les voir dans la liste.
+
+Pour un premier essai, donnez un sujet : « Pose-moi des questions : je veux organiser un vide-grenier pour l'école. »
 
 ## 🧩 Les neuf skills
 
